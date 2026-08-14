@@ -69,3 +69,17 @@ AWS is recommended for the global e-commerce company because it provides scalabl
 | University | Microsoft Azure | Strong Microsoft integration |
 | AI Research Company | Google Cloud | AI, machine learning, and computing capabilities |
 | Global E-Commerce Company | AWS | Scalability, availability, and global infrastructure |
+
+
+---
+
+## Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides a broad range of services and allows a startup to scale its resources as the business grows. |
+| Enterprise Organization | AWS | AWS provides a large portfolio of services that can support diverse enterprise workloads and infrastructure requirements. |
+| Microsoft Environment | Microsoft Azure | Azure provides strong integration with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft identity services. |
+| AI / Machine Learning | Google Cloud | Google Cloud provides strong capabilities for artificial intelligence, machine learning, and data-focused workloads. |
+| Kubernetes Deployment | Google Cloud | Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying and managing containerized applications. |
+| Global Web Application | AWS | AWS provides scalable cloud infrastructure and global deployment capabilities suitable for applications serving users in different locations. |
