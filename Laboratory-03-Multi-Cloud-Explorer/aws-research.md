@@ -54,7 +54,7 @@ Screenshot
 
 AWS homepage screenshot:
 
-aws-homepage.png
+IMG_8656.png
 
 Sources
 
